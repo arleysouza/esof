@@ -1,1 +1,1 @@
-console.log('Adicionei o arquivo dados/arluza.txt')
+console.log('Ola torcida tricolor, siga nossa pagina')
