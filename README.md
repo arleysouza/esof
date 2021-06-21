@@ -1,6 +1,6 @@
 # **Exercício de GitHub**
 
-![](https://github.com/arleysouza/esof/blob/main/imagens/Logo.jpeg)
+![](https://github.com/arleysouza/esof/blob/wilshi/imagens/Logo.jpeg)
 
 ## Ações
 
