@@ -3,14 +3,14 @@
 ![](https://github.com/arleysouza/esof/blob/vinlva/imagens/logo.png)
 
 ### :computer: Ações
-
+---
  1. Faça o clone do repositório `https://github.com/arleysouza/esof.git`
  2. Crie a branch com as 3 primeiras letras do seu primeiro nome, e as 3 ultimas letras do seu sobrenome. 
 
-Criar a branch:	
+	- Criar a branch:	
 `git branch vinlva`
 	
-Mudar para a branch:
+	- Mudar para a branch:
 `git checkout vinlva`
 
  3. Adicione todos os arquivos para serem commitados com `git add .`
