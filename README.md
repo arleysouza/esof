@@ -18,6 +18,6 @@ console.log('adicionei o arquivo/lucruz.tx')
 6. Acessei o repositório com as novas mudanças;
 7. Acessei a pasta `imagens`, cliquei com o botão direito na nova imagem `download.png` e copiei seu endereço de link
 8. Colei o endereço de link no arquivo readme da branch lucruz;
-9. Fiz um (`git add . `), commitei (`git commit -m "added image"`) e dei um push (`git push`) com o novo link da imagem;
+9. Fiz um (`git add . `), commitei (`git commit -m "adicinandoReadme"`) e dei um push (`git push`) com o novo link da imagem;
 
 ### _lucas Souza Cruz_
