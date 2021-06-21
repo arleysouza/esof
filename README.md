@@ -1,6 +1,6 @@
 # B2 - Engenharia de Software
 
-![](https://github.com/arleysouza/esof/blob/main/imagens/ilustracao.png)
+![](https://github.com/arleysouza/esof/blob/vinlva/imagens/ilustracao.png)
 
 ### :computer: Ações
 
