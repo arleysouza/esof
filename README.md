@@ -1,9 +1,18 @@
-# Exercício de GitHub
+PROVA ARLEY - B2 - Eng
 
-![](https://github.com/arleysouza/esof/blob/main/imagens/ilustracao.png)
+![](https://github.com/arleysouza/esof/blob/josior/imagens/projeto eng prog.png)
 
-### Ações
+Ações </br>
+ Pedi pemissão ao colaborador </br>
+Professor aceitou a permissão  </br>
+Reposytorio  </br>
+Criei a branch josior , conforme orientação  </br>
+Adicionei  um TXT na pasta. </br> 
+Adicionei um arquivos.js </br>
+Copiei  a imagem  na pasta imagem </br>
+Publiquei as alterações da branch </br>
 
-1. Criei o arquivo `dados/arluza.txt` e coloquei nele um texto;
-2. Adicionei uma linha de código em `arquivos.js`;
-3. Carreguei uma imagem na pasta `imagens`.
+Alterei  o arquivo README.md </br>
+Comit ok </br>
+
+ 
