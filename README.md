@@ -10,8 +10,7 @@
 
 # Exercício de GitHub - Julati
 
-![](https://github.com/JulianaRosati/Clone-Prova-ESOF/blob/da28e98e802061645dfc037870c375f30185faa2/imagens/ceu.jpg)
-
+https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FC%25C3%25A9u&psig=AOvVaw07P_dzRlt04ztYHhUn6bIr&ust=1624481999220000&source=images&cd=vfe&ved=0CAcQjRxqFwoTCIClkJmRrPECFQAAAAAdAAAAABAD
 ### Ações - Julati
 
 1. Solicitei a colaboração no Git 'esof';
