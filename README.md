@@ -8,15 +8,17 @@
 2. Adicionei uma linha de código em `arquivos.js`;
 3. Carreguei uma imagem na pasta `imagens`.
 
+# Exercício de GitHub - Julati
 
-Exercício de GitHub - zaioub
-(https://github.com/zainmajzoub/prova/blob/fe382b34da8de025c1bc8511963e13c7e00f4c66/imagens/github.jpg)
+![](https://github.com/JulianaRosati/Clone-Prova-ESOF/blob/da28e98e802061645dfc037870c375f30185faa2/imagens/ceu.jpg)
 
-solicitei a colaboração no github;
-aceitei a colaboração no github;
-clonei o git "prova";
-criei o arquivo "zaioub" a partir do main;
-adicionei o arquivo zaioub.txt na branch "zaioub";
-adicionei o arquivo arquivo.js na branch "zaioub";
-adicionei uma imagem na branch "zaioub";
-modifiquei o READ.me passo a passo e a imagem.
+### Ações - Julati
+
+1. Solicitei a colaboração no Git 'esof';
+2. Aceitei a colaboração no Git 'esof';
+3. Clonei o Git 'esof';
+4. Criei a branch 'julati' a partir da 'main';
+5. Adicionei o arquivo julati.txt na pasta 'dados' da branch 'julati';
+6. Adicionei o arquivo 'Parte 6.js' na branch 'julati';
+7. Adicionei uma imagem julati.txt na pasta 'imagens' da branch 'julati';
+8. Modifiquei o Readme.md com o passo a passo e a imagem.
