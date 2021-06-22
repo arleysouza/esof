@@ -1,6 +1,7 @@
 # Exercício de GitHub
 
-![](https://github.com/arleysouza/esof/blob/main/imagens/gitimg.png)
+![gitimg](https://user-images.githubusercontent.com/65790013/122843734-8ae48b00-d2d6-11eb-97d2-3cc836f87bea.png)
+
 
 ### Ações
 
